@@ -1,2 +1,5 @@
 Packages
 .build
+/Package.resolved
+/.swiftpm
+.DS_Store
